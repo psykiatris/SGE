@@ -10,7 +10,7 @@ public class CoreFunctions {
 
     double sec = 1.0;  // second
     double rad;     // radius
-    double pi = 3.141592653589793   // pi
+    double pi = 3.141592653589793;   // pi
 
 
     public void track() {
